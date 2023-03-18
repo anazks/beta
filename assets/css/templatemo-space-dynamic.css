@@ -1156,6 +1156,10 @@ Portfolio
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
   transition: all 0.5s;
 }
+.logo-image{
+  width: 100px;
+  height: 100px;
+}
 
 .our-portfolio .showed-content img {
   /* max-width: 100%; */

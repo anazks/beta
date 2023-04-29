@@ -239,8 +239,8 @@ header
 */
 
 .background-header {
-  background-color: #fff!important;
-  height: 80px!important;
+  background-color: #f7f7f7!important;
+  height: 100px!important;
   position: fixed!important;
   top: 0px;
   left: 0px;
@@ -1157,7 +1157,7 @@ Portfolio
   transition: all 0.5s;
 }
 .logo-image{
-  width: 100px;
+  width: auto;
   height: 100px;
 }
 

@@ -1161,8 +1161,8 @@ Portfolio
   transition: all 0.5s;
 }
 .logo-image{
-  width: auto;
-  height: 100px;
+  width: auto ;
+  height: 120px;
 }
 
 .our-portfolio .showed-content img {
